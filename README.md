@@ -1,5 +1,7 @@
 # dotfiles
 
+My personal dotfiles for macOS.
+
 ### Installation
 
 Prerequisites
