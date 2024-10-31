@@ -4,6 +4,7 @@
 
 Prerequisites
 - [Xcode](https://apps.apple.com/se/app/xcode/id497799835?mt=12)
+- [Secretive](https://github.com/maxgoedjen/secretive/releases)
 - [Homebrew](https://brew.sh)
 
 1. Clone the repo ``git clone git@github.com:nervenes/dotfiles.git ~/.dotfiles``
