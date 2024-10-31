@@ -1,0 +1,6 @@
+tap "homebrew/bundle"
+brew "cmake"
+brew "foreman"
+brew "fzf"
+brew "livekit"
+brew "stow"
