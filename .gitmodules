@@ -1,0 +1,9 @@
+[submodule "plugins/zsh-xcode-completions"]
+	path = plugins/zsh-xcode-completions
+	url = git@github.com:keith/zsh-xcode-completions.git
+[submodule "plugins/zsh-completions"]
+	path = plugins/zsh-completions
+	url = git@github.com:zsh-users/zsh-completions.git
+[submodule "plugins/fzf-tab"]
+	path = plugins/fzf-tab
+	url = git@github.com:Aloxaf/fzf-tab.git
