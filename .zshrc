@@ -1,6 +1,7 @@
 fpath+=$(brew --prefix)/share/zsh/site-functions
 fpath+=$HOME/.dotfiles/plugins/zsh-completions/src
 fpath+=$HOME/.dotfiles/plugins/zsh-xcode-completions/src
+fpath+=$HOME/.dotfiles/completions
 
 autoload -Uz compinit && compinit
 

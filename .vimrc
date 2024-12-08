@@ -31,6 +31,3 @@ set nocompatible
 set ttyfast
 
 set rtp+=/opt/homebrew/opt/fzf
-
-let &t_SI="\033[6 q"
-let &t_EI="\033[1 q"
