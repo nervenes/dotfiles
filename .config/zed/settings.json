@@ -2,11 +2,15 @@
   "ui_font_size": 16,
   "ui_font_family": "SF Pro",
 
-  "buffer_font_size": 14,
+  "buffer_font_size": 13,
   "buffer_font_family": "SF Mono",
   "buffer_line_height": "standard",
 
   "restore_on_startup": "none",
+  "auto_install_extensions": {
+    "html": false
+  },
+
   "format_on_save": "off",
   "autosave": {
     "after_delay": {
@@ -28,7 +32,8 @@
   "tabs": {
     "file_icons": true,
     "git_status": true,
-    "close_position": "left"
+    "close_position": "left",
+    "show_diagnostics": "all"
   },
 
   "terminal": {
@@ -55,5 +60,14 @@
         }
       }
     }
+  },
+
+  "show_inline_completions": false,
+  "assistant": {
+    "default_model": {
+      "provider": "copilot_chat",
+      "model": "claude-3-5-sonnet"
+    },
+    "version": "2"
   }
 }
