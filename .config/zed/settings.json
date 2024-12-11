@@ -6,6 +6,7 @@
   "buffer_font_family": "SF Mono",
   "buffer_line_height": "standard",
 
+  "restore_on_startup": "none",
   "format_on_save": "off",
   "autosave": {
     "after_delay": {
