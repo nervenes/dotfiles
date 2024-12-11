@@ -12,5 +12,5 @@ source $HOME/.dotfiles/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.z
 setopt hist_ignore_all_dups
 setopt inc_append_history
 
-export EDITOR="code --wait"
-export VISUAL="code --wait"
+export EDITOR="zed --wait"
+export VISUAL="zed --wait"
