@@ -6,6 +6,7 @@
   "buffer_font_family": "SF Mono",
   "buffer_line_height": "standard",
 
+  "show_user_picture": false,
   "restore_on_startup": "none",
   "auto_install_extensions": {
     "html": false
@@ -31,9 +32,9 @@
 
   "tabs": {
     "file_icons": true,
-    "git_status": true,
     "close_position": "left",
-    "show_diagnostics": "all"
+    "show_diagnostics": "all",
+    "git_status": true
   },
 
   "terminal": {
@@ -65,8 +66,8 @@
   "show_inline_completions": false,
   "assistant": {
     "default_model": {
-      "provider": "copilot_chat",
-      "model": "claude-3-5-sonnet"
+      "provider": "zed.dev",
+      "model": "claude-3-5-sonnet-latest"
     },
     "version": "2"
   }
