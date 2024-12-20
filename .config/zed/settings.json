@@ -6,7 +6,6 @@
   "buffer_font_family": "SF Mono",
   "buffer_line_height": "standard",
 
-  "show_user_picture": false,
   "restore_on_startup": "none",
   "auto_install_extensions": {
     "html": false
