@@ -1,0 +1,10 @@
+theme = xcodedark
+font-size = 12
+font-family = SF Mono
+font-thicken = true
+cursor-color = grey
+cursor-style = block
+cursor-style-blink = false
+adjust-cursor-thickness = 2
+shell-integration-features = no-cursor
+macos-titlebar-style = native
